@@ -1,0 +1,6 @@
+pytube
+moviepy
+openai-whisper
+deep-translator
+requests
+streamlit
